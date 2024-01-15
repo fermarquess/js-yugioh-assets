@@ -1,9 +1,5 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# Desafio de projeto 
+## Criando um jogo de cartas de Yu-Gi-Oh com Javascript
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+Projeto desenvolvido no Bootcamp Potência Tech iFood - Desenvolvimento de Jogos oferecido pela [Digital Innovation One](dio.me).
 
-conceitos abordados:
-
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
